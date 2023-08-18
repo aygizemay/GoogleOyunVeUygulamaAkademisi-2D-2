@@ -12,7 +12,7 @@ Koş, zıpla ve elmasları topla! Hızlı Elmas Macerası'nda reflekslerini test
 
 
 ![1](https://github.com/aygizemay/GoogleOyunVeUygulamaAkademisi-2D-2/assets/132147429/9e8565ad-4a18-44e8-82b8-73b87b37551b)
-
+ 
 Bu oyun nasıl oynanır?
 1.  Space ile zıpla.
 2. Elmasları topla.
