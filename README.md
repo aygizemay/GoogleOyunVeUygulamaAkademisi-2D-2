@@ -8,11 +8,15 @@
 Engelleri aş, hızını kontrol et ve en yüksek puanı hedefle. Hızlı Elmas Koşusu'nda eğlence ve hız bir arada!
 Koş, zıpla ve elmasları topla! Hızlı Elmas Macerası'nda reflekslerini test et ve en yüksek puanı hedefle!
 
+
+
+
+![1](https://github.com/aygizemay/GoogleOyunVeUygulamaAkademisi-2D-2/assets/132147429/9e8565ad-4a18-44e8-82b8-73b87b37551b)
+
 Bu oyun nasıl oynanır?
 1.  Space ile zıpla.
 2. Elmasları topla.
-3.	Eve ulaş.	
-
-![1](https://github.com/aygizemay/GoogleOyunVeUygulamaAkademisi-2D-2/assets/132147429/9e8565ad-4a18-44e8-82b8-73b87b37551b)
+3.	Eve ulaş.
+4.	
 ![2](https://github.com/aygizemay/GoogleOyunVeUygulamaAkademisi-2D-2/assets/132147429/fc17cc21-5d0e-4c2d-a377-b9145b7c11bc)
 
