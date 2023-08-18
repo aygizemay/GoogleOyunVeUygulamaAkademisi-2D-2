@@ -17,6 +17,6 @@ Bu oyun nasıl oynanır?
 1.  Space ile zıpla.
 2. Elmasları topla.
 3.	Eve ulaş.
-4.	
+
 ![2](https://github.com/aygizemay/GoogleOyunVeUygulamaAkademisi-2D-2/assets/132147429/fc17cc21-5d0e-4c2d-a377-b9145b7c11bc)
 
