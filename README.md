@@ -1,4 +1,4 @@
-#Oyun ve Uygulama Akademisi 2021-2022 | Unity Başlangıç Eğitimi (2D Proje)
+#Oyun ve Uygulama Akademisi 2022-2023 | Unity Başlangıç Eğitimi (2D Proje)
 (Eğitimdeki haline göre ufak değişiklikler olabilir)
 
 
